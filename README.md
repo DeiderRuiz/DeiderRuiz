@@ -33,12 +33,14 @@ En la fase de desarrollo, manejé todo lo relacionado con la base de datos, que 
 [![SPEEDHUNTERS](https://img.shields.io/badge/SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
 ## SPEEDHUNTERS
 
+Página de inicio de SPEEDHUNTERS.
 ![Página de inicio de SPEEDHUNTERS](SHIndex.png)
+Formulario de solicitud de cotización de autos de SPEEDHUNTERS (Los formularios de los demás servicios son similares).
 ![Formulario de cotización de autos de SPEEDHUNTERS](SHForm.png)
+Vista de la cotización ya solicitada en SPEEDHUNTERS.
 ![Vista de la cotización ya solicitada en SPEEDHUNTERS](SHShow.png)
+Login de administrador de SPEEDHUNTERS (en un subdominio)
 ![Login de administrador de SPEEDHUNTERS en un subdominio](SHLogin.png)
-![Vista de perfil de usuario de SPEEDHUNTERS en modo oscuro](SHProfile.png)
-![Tabla de autos del concesionario SPEEDHUNTERS en modo oscuro](SHCars.png)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
