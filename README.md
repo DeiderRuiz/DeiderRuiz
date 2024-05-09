@@ -34,7 +34,7 @@ En la fase de desarrollo, manejé todo lo relacionado con la base de datos, que 
 ## SPEEDHUNTERS
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+!Descripción de la imagen
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
