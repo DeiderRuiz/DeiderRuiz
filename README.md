@@ -5,14 +5,17 @@ Soy Deider Yofret Ruiz Acosta, estudiante de Ingeniería de Sistemas. Aunque no 
 
 ## 🛠 Habilidades
 Tengo habilidades en los siguientes lenguajes de programación y tecnologías:
-- HTML y CSS: 3 años de experiencia
-- PHP: 2 años de experiencia
-- JavaScript: 2 años de experiencia
-- Laravel: 2 años de experiencia
-- MySQL: 2 años de experiencia
-- Angular: 1 año de experiencia
-- Figma: 1 año de experiencia
-- Vue.js: Menos de 1 año de experiencia
+- HTML y CSS
+- PHP
+- Python
+- JavaScript
+- Laravel
+- MySQL
+- Angular
+- Vue.js
+- Flask
+- AWS
+- Figma
 
 
 ## Proyectos
