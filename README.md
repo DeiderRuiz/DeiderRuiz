@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre Mí
-Soy desarrollador fullstack con experiencia en el desarrollo de aplicaciones web, incluyendo un chatbot para la gestión emocional y una plataforma de venta de vehículos. Me especializo en el front end, utilizo tecnologías como PHP, Python, JavaScript, MySQL, Figma, WordPress, Laravel, Angular CLI, Vue.js, Flask y AWS. Puedo crear aplicaciones completas desde el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX), pasando por el desarrollo del front end y back end, hasta la gestión de bases de datos.Actualmente, soy estudiante de Ingeniería de Sistemas en la Universidad Antonio José de Sucre a punto de terminar la carrera.
+Soy desarrollador fullstack con experiencia en el desarrollo de aplicaciones web, incluyendo un chatbot para la gestión emocional y una plataforma de venta de vehículos. Me especializo principalmente en el front end, utilizo tecnologías como PHP, Python, JavaScript, MySQL, Figma, WordPress, Laravel, Angular CLI, Vue.js, Flask y AWS. Puedo crear aplicaciones completas desde el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX), pasando por el desarrollo del front end y back end, hasta la gestión de bases de datos.Actualmente, soy estudiante de Ingeniería de Sistemas en la Universidad Antonio José de Sucre a punto de terminar la carrera.
 
 ## 🛠 Habilidades
 Tengo habilidades en los siguientes lenguajes de programación y tecnologías:
