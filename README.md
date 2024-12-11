@@ -42,8 +42,11 @@ Formulario de solicitud de Financiación de autos de SPEEDHUNTERS.
 Formulario de solicitud de Test Drive de autos de SPEEDHUNTERS.
 ![Formulario de test drive de autos de SPEEDHUNTERS](SHTestDrive.png)
 
-Login de administrador de SPEEDHUNTERS (en un subdominio)
-![Login de administrador de SPEEDHUNTERS en un subdominio](SHLogin.png)
+Formulario de solicitud de posventa de SPEEDHUNTERS.
+![Formulario de posventa de SPEEDHUNTERS](SHPosventa.png)
+
+Formulario de PQRS de SPEEDHUNTERS.
+![Formulario de PQRS de SPEEDHUNTERS](SHpqrs.png)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
