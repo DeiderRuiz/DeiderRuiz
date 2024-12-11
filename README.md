@@ -32,8 +32,6 @@ Definí requisitos funcionales y no funcionales, con stakeholders para identific
 
 Página de inicio de SPEEDHUNTERS.
 ![Página de inicio de SPEEDHUNTERS](SHIndex.png)
-![Página de inicio de SPEEDHUNTERS](https://github.com/DeiderRuiz/DeiderRuiz/blob/main/Captura%20de%20pantalla%20(349).png)
-https://github.com/DeiderRuiz/DeiderRuiz/blob/main/Captura%20de%20pantalla%20(349).png
 
 Formulario de solicitud de cotización de autos de SPEEDHUNTERS (Los formularios de los demás servicios son similares).
 ![Formulario de cotización de autos de SPEEDHUNTERS](SHForm.png)
