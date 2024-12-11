@@ -28,7 +28,16 @@ Desarrollé una aplicación con IA para la ayuda en la gestión emocional en est
 Durante el desarrollo del proyecto definí requisitos funcionales y no funcionales, colaborando con la psicóloga de la universidad para crear historias de usuario y definir requisitos en base a dichas historias, diseñé mockups en Figma para la mostrar como funcionaría y se vería la app y afiné el modelo GPT 3.5 Turbo para el chatbot e integré el modelo GPT-3.5 Turbo afinado mediante la API de OpenAI. Desarrollé la aplicación utilizando MySQL para la base de datos, Vue.js y Tailwind CSS para el frontend, y Flask para el backend, por ultimo desplegué el prototipo en AWS (EC2 y RDS) para realizar las pruebas. La app recibió una calificación promedio de 4.62 por los estudiantes en escala Likert, un coeficiente de alfa de Cronbach de 0.87 en impresión diagnóstica y además soporta más de 500 usuarios simultáneos. Utilicé OWASP ZAP para pruebas de seguridad, encontrando y solucionando 11 vulnerabilidades de bajo riesgo.
 
 Página de inicio de Psicobot.
-![Página de inicio de Psicobot](SHIndex.png)
+![Página de inicio de Psicobot](PsicoIndex.png)
+
+Página de inicio de sesión de Psicobot.
+![Página de inicio de Psicobot](PsicoLogin.png)
+
+Página de panel de ususario de Psicobot.
+![Página de panel de ususario de Psicobot](Psicobot.png)
+
+Página de formulario de solictud de citas de orientación psicológica de Psicobot.
+![Página de formulario de solictud de citas de orientación psicológica de Psicobot.](PsicoDate.png)
 
 ### Desarrollo de una Página Web de Venta de Vehículos en Línea Universidad Antonio José de Sucre
 ### MIT, Universidad Antonio José de Sucre | Septiembre 2023 - Septiembre 2024
