@@ -33,11 +33,14 @@ Definí requisitos funcionales y no funcionales, con stakeholders para identific
 Página de inicio de SPEEDHUNTERS.
 ![Página de inicio de SPEEDHUNTERS](SHIndex.png)
 
-Formulario de solicitud de cotización de autos de SPEEDHUNTERS (Los formularios de los demás servicios son similares).
-![Formulario de cotización de autos de SPEEDHUNTERS](SHForm.png)
+Formulario de solicitud de cotización de autos de SPEEDHUNTERS.
+![Formulario de cotización de autos de SPEEDHUNTERS](SHCotizar.png)
 
-Vista de la cotización ya solicitada en SPEEDHUNTERS.
-![Vista de la cotización ya solicitada en SPEEDHUNTERS](SHShow.png)
+Formulario de solicitud de Financiación de autos de SPEEDHUNTERS.
+![Formulario de financiación de autos de SPEEDHUNTERS](SHFinanciar.png)
+
+Formulario de solicitud de Test Drive de autos de SPEEDHUNTERS.
+![Formulario de test drive de autos de SPEEDHUNTERS](SHTestDrive.png)
 
 Login de administrador de SPEEDHUNTERS (en un subdominio)
 ![Login de administrador de SPEEDHUNTERS en un subdominio](SHLogin.png)
