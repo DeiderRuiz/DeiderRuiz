@@ -27,7 +27,7 @@ Desarrollé una aplicación con IA para la ayuda en la gestión emocional en est
 
 Durante el desarrollo del proyecto definí requisitos funcionales y no funcionales, colaborando con la psicóloga de la universidad para crear historias de usuario y definir requisitos en base a dichas historias, diseñé mockups en Figma para la mostrar como funcionaría y se vería la app y afiné el modelo GPT 3.5 Turbo para el chatbot e integré el modelo GPT-3.5 Turbo afinado mediante la API de OpenAI. Desarrollé la aplicación utilizando MySQL para la base de datos, Vue.js y Tailwind CSS para el frontend, y Flask para el backend, por ultimo desplegué el prototipo en AWS (EC2 y RDS) para realizar las pruebas. La app recibió una calificación promedio de 4.62 por los estudiantes en escala Likert, un coeficiente de alfa de Cronbach de 0.87 en impresión diagnóstica y además soporta más de 500 usuarios simultáneos. Utilicé OWASP ZAP para pruebas de seguridad, encontrando y solucionando 11 vulnerabilidades de bajo riesgo.
 
-[![Psicobot](https://img.shields.io/badge/SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
+[![Psicobot](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
 ## Psicobot
 
 Página de inicio de Psicobot.
