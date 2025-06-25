@@ -1,17 +1,19 @@
+Desarrollador Full Stack con experiencia construyendo aplicaciones web completas. Realizo análisis de requisitos, diseño UI/UX, desarrollo de frontend y backend, gestión de bases de datos, pruebas de carga, pruebas de seguridad y despliegue en la nube.
 
-Desarrollador Full Stack con experiencia construyendo aplicaciones web completas, desde el diseño UI/UX hasta el backend y la gestión de bases de datos. He trabajado en proyectos como:
+He trabajado en proyectos como:
 
-- 🤖 Un chatbot con inteligencia artificial para apoyar la gestión emocional de estudiantes universitarios.
+- 🏨 Una plataforma de gestión hotelera y reserva de habitaciones.  
+- 🤖 Un chatbot con inteligencia artificial para apoyar la gestión emocional de estudiantes universitarios.  
 - 🚗 Una plataforma de venta de vehículos en línea desarrollada en un entorno académico.
 
 Tecnologías que manejo:  
-**Laravel**, **Vue.js**, **Angular**, **Flask**, **PHP**, **Python**, **JavaScript**, **MySQL**, **AWS**, entre otras.
+**Laravel**, **Vue.js**, **Angular**, **Flask**, **PHP**, **Python**, **JavaScript**, **MySQL**, **AWS**, **Tailwind CSS**, **Bootstrap**, **Figma**, **OWASP ZAP** y **Apache JMeter**.
 
-Me enfoco en construir soluciones escalables, seguras y centradas en el usuario. Actualmente desarrollo proyectos personales para seguir mejorando mis habilidades y mantenerme actualizado con el entorno tecnológico.
+Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 
 ## Proyectos
 
-### Desarrollo de Aplicación con InteligenciaArtificial para Gestión Emocional
+### Desarrollo de Aplicación con Inteligencia Artificial para Gestión Emocional
 ### MIT, Universidad Antonio José de Sucre | Septiembre 2023 - Septiembre 2024
 
 Desarrollé una aplicación con IA para la ayuda en la gestión emocional en estudiantes de la Universidad Antonio José de Sucre, en la cual estudiantes y egresados podían acceder a un chatbot afinado para proporcionar estrategias de orientación psicológica, así como solicitar una cita de orientación con la psicóloga de la institución.
