@@ -1,4 +1,5 @@
-#Sobre mi
+# Sobre mi
+
 Desarrollador Full Stack con experiencia construyendo aplicaciones web completas. Realizo análisis de requisitos, diseño UI/UX, desarrollo de frontend y backend, gestión de bases de datos, pruebas de carga, pruebas de seguridad y despliegue en la nube.
 
 He trabajado en proyectos como:
