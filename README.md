@@ -30,26 +30,18 @@ Desarrollo de una aplicación web con inteligencia artificial para la gestión e
 `Vue.js` • `Tailwind CSS` • `Flask` • `Python` • `OpenAI API` • `MySQL` • `AWS EC2 / RDS` • `OWASP ZAP` • `Apache JMeter`
 
 <p float="left">
+  <img src="PsicoIndex.png" width="45%" />
   <img src="PsicoLogin.png" width="45%" />
+</p>
+<p float="left">
   <img src="Psicobot.png" width="45%" />
+  <img src="PsicoDate.png" width="45%" />
 </p>
 
-[![Psicobot](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
-## Psicobot
+### 🔗 Enlace al repositorio
+👉 [Ver el código en GitHub](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 
-Página de inicio de Psicobot.
-![Página de inicio de Psicobot](PsicoIndex.png)
-
-Página de inicio de sesión de Psicobot.
-![Página de inicio de Psicobot](PsicoLogin.png)
-
-Página de panel de ususario de Psicobot.
-![Página de panel de ususario de Psicobot](Psicobot.png)
-
-Página de formulario de solictud de citas de orientación psicológica de Psicobot.
-![Página de formulario de solictud de citas de orientación psicológica de Psicobot.](PsicoDate.png)
-
-##
+## SPEEDHUNTERS
 
 ### Desarrollo de una Página Web de Venta de Vehículos en Línea Universidad Antonio José de Sucre
 ### MIT, Universidad Antonio José de Sucre | Septiembre 2023 - Septiembre 2024
