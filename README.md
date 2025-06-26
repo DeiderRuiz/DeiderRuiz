@@ -39,7 +39,7 @@ Desarrollo de una aplicación web con inteligencia artificial para la gestión e
 </p>
 
 ### 🔗 Enlace al repositorio
-👉 [Ver el código en GitHub](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
+[![Ver el código en GitHub](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 
 ## SPEEDHUNTERS
 
