@@ -30,8 +30,8 @@ Desarrollo de una aplicación web con inteligencia artificial para la gestión e
 `Vue.js` • `Tailwind CSS` • `Flask` • `Python` • `OpenAI API` • `MySQL` • `AWS EC2 / RDS` • `OWASP ZAP` • `Apache JMeter`
 
 <p float="left">
-  <img src="(PsicoLogin.png)" width="45%" />
-  <img src="(Psicobot.png)" width="45%" />
+  <img src="PsicoLogin.png" width="45%" />
+  <img src="Psicobot.png" width="45%" />
 </p>
 
 [![Psicobot](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
