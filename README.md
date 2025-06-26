@@ -18,9 +18,21 @@ Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 ## Psicobot – Chatbot con inteligencia artificial para apoyo emocional
 Desarrollo de una aplicación web con inteligencia artificial para la gestión emocional en estudiantes universitarios.
 
-Desarrollé una aplicación con IA para la ayuda en la gestión emocional en estudiantes de la Universidad Antonio José de Sucre, en la cual estudiantes y egresados podían acceder a un chatbot afinado para proporcionar estrategias de orientación psicológica, así como solicitar una cita de orientación con la psicóloga de la institución.
+### 📌 Funcionalidades y logros destacados:
+- 🔧 Desarrollé **dos interfaces responsivas** con Vue.js y Tailwind CSS, evaluadas por usuarios con una calificación promedio de **4.6/5 en usabilidad** (escala Likert).
+- 🧩 Construí **APIs RESTful en Flask** para automatizar tres procesos administrativos del servicio de orientación psicológica.
+- 🤖 Integré un **chatbot de apoyo psicológico** utilizando la API de OpenAI, complementando la atención del departamento de bienestar universitario.
+- 🛡️ Ejecuté **pruebas de seguridad con OWASP ZAP**, identificando y corrigiendo **11 vulnerabilidades críticas**.
+- ☁️ Orquesté el **despliegue en AWS** (EC2 y RDS), y validé su rendimiento con pruebas de carga usando Apache JMeter, garantizando estabilidad con más de **500 usuarios simultáneos**.
+- 💬 El diseño del flujo conversacional del chatbot obtuvo una confiabilidad psicométrica **(α = 0.87)** en impresión diagnóstica, validada con encuestas a usuarios.
 
-Durante el desarrollo del proyecto definí requisitos funcionales y no funcionales, colaborando con la psicóloga de la universidad para crear historias de usuario y definir requisitos en base a dichas historias, diseñé mockups en Figma para la mostrar como funcionaría y se vería la app y afiné el modelo GPT 3.5 Turbo para el chatbot e integré el modelo GPT-3.5 Turbo afinado mediante la API de OpenAI. Desarrollé la aplicación utilizando MySQL para la base de datos, Vue.js y Tailwind CSS para el frontend, y Flask para el backend, por ultimo desplegué el prototipo en AWS (EC2 y RDS) para realizar las pruebas. La app recibió una calificación promedio de 4.62 por los estudiantes en escala Likert, un coeficiente de alfa de Cronbach de 0.87 en impresión diagnóstica y además soporta más de 500 usuarios simultáneos. Utilicé OWASP ZAP para pruebas de seguridad, encontrando y solucionando 11 vulnerabilidades de bajo riesgo.
+### 🛠️ Tecnologías utilizadas:
+`Vue.js` • `Tailwind CSS` • `Flask` • `Python` • `OpenAI API` • `MySQL` • `AWS EC2 / RDS` • `OWASP ZAP` • `Apache JMeter`
+
+<p float="left">
+  <img src="(PsicoLogin.png)" width="45%" />
+  <img src="(Psicobot.png)" width="45%" />
+</p>
 
 [![Psicobot](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 ## Psicobot
