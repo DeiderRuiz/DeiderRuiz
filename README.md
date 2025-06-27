@@ -41,35 +41,30 @@ Desarrollo de una aplicación web con inteligencia artificial para la gestión e
 ### 🔗 Enlace al repositorio
 [![Ver el código en GitHub](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 
-## SPEEDHUNTERS
+## SPEEDHUNTERS - Plataforma web de venta de vehículos en línea
+Aplicación web para la gestión y comercialización de vehículos en línea, desarrollada en un entorno académico y posteriormente refactorizada con Laravel para mejorar su arquitectura y seguridad.
 
-### Desarrollo de una Página Web de Venta de Vehículos en Línea Universidad Antonio José de Sucre
-### MIT, Universidad Antonio José de Sucre | Septiembre 2023 - Septiembre 2024
+### 📌 Funcionalidades y logros destacados:
+- 🔁 Refactoricé y migré módulos clave desde PHP puro hacia el framework **Laravel**, reduciendo la deuda técnica, mejorando la mantenibilidad del código y reforzando la seguridad general del sistema.
+- ⚙️ Automatizé procesos comerciales y administrativos mediante **APIs REST**, eliminando 9 tareas manuales y aumentando la eficiencia operativa del sistema.
+- 🛡️ Apliqué **middleware de control de acceso** para restringir rutas administrativas, previniendo accesos no autorizados y fortaleciendo la capa de seguridad.
+- 📄 Implementé generación dinámica de **documentos PDF** para procesos como facturación, órdenes de compra y reportes, mejorando la gestión documental en 4 procesos comerciales clave.
 
-Lideré y participé en el desarrollo de una aplicación web para la venta de vehículos en línea para la automatización de funciones de un concesionario, tales como solicitudes de cotización, financiación, test drive y un servicio posventa de mantenimiento, esto fue realizado cómo parte de proyectos de aula.
+### 🛠️ Tecnologías utilizadas:
+`Laravel` • `PHP` • `Bootstrap` • `Tailwind CSS` • `JavaScript` • `MySQL`
 
-Definí requisitos funcionales y no funcionales, con stakeholders para identificar y definir las necesidades técnicas del proyecto. Diseñé mockups en Figma. Desarrollé la aplicación utilizando MySQL para la base de datos, JavaScript y Bootstrap para el frontend, y PHP para el backend. Posteriormente, realicé la migración a Laravel, mejorando la estética y funcionalidad de la aplicación con Tailwind CSS.
+### 🔍 Capturas de pantalla
+<p float="left">
+  <img src="SHIndex.png" width="45%" />
+  <img src="SHCotizar.png" width="45%" />
+</p>
+<p float="left">
+  <img src="SHFinanciar.png" width="45%" />
+  <img src="SHTestDrive.png" width="45%" />
+</p>
 
-[![SPEEDHUNTERS](https://img.shields.io/badge/SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
-## SPEEDHUNTERS
-
-Página de inicio de SPEEDHUNTERS.
-![Página de inicio de SPEEDHUNTERS](SHIndex.png)
-
-Formulario de solicitud de cotización de autos de SPEEDHUNTERS.
-![Formulario de cotización de autos de SPEEDHUNTERS](SHCotizar.png)
-
-Formulario de solicitud de Financiación de autos de SPEEDHUNTERS.
-![Formulario de financiación de autos de SPEEDHUNTERS](SHFinanciar.png)
-
-Formulario de solicitud de Test Drive de autos de SPEEDHUNTERS.
-![Formulario de test drive de autos de SPEEDHUNTERS](SHTestDrive.png)
-
-Formulario de solicitud de posventa de SPEEDHUNTERS.
-![Formulario de posventa de SPEEDHUNTERS](SHPosventa.png)
-
-Formulario de PQRS de SPEEDHUNTERS.
-![Formulario de PQRS de SPEEDHUNTERS](SHpqrs.png)
+### 🔗 Enlace al repositorio
+[![Ver el código en GitHub](https://img.shields.io/badge/SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
