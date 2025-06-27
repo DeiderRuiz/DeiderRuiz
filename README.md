@@ -15,6 +15,23 @@ Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 
 # Proyectos
 
+## RS Logings – Plataforma web para reserva y gestión hotelera
+Aplicación web desarrollada para la gestión integral de reservas, habitaciones y transacciones en un entorno hotelero. Incluye automatización de procesos, integración de pagos y diseño de interfaces interactivas enfocadas en la experiencia del usuario.
+
+### 📌 Funcionalidades y logros destacados:
+- 🖥️ Desarrollé **tres interfaces interactivas** utilizando Laravel Inertia, Vue.js y Tailwind CSS, mejorando la fluidez e intuitividad de la experiencia de usuario.
+- 🧩 Estructuré y optimicé **componentes reutilizables**, facilitando la escalabilidad y el mantenimiento del código frontend.
+- 🔄 Automatizé **7 procesos administrativos** con APIs RESTful, agilizando la operación diaria y reduciendo errores humanos.
+- ⚡ Optimizé consultas SQL en **MySQL**, logrando una mejora del **36% en los tiempos de carga** de la aplicación.
+- 💳 Integré y configuré el **SDK de PayPal** para automatizar cobros en línea, reforzando la seguridad de las transacciones.
+- ⏱️ Diseñé y desplegué un **Cron Job diario** para actualizar automáticamente el estado de reservas y disponibilidad, eliminando en un **99.9% la intervención manual**.
+
+### 🛠️ Tecnologías utilizadas:
+`Laravel` • `Vue.js` • `Tailwind CSS` • `MySQL` • `PayPal SDK` • `Inertia.js`
+
+### 🔗 Enlace al repositorio
+[![Ver el código en GitHub](https://img.shields.io/badge/RS_Lodgings-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/RS-Lodgings)
+
 ## Psicobot – Chatbot con inteligencia artificial para apoyo emocional
 Desarrollo de una aplicación web con inteligencia artificial para la gestión emocional en estudiantes universitarios.
 
