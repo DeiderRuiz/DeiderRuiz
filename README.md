@@ -29,6 +29,15 @@ Aplicación web desarrollada para la gestión integral de reservas, habitaciones
 ### 🛠️ Tecnologías utilizadas:
 `Laravel` • `Vue.js` • `Tailwind CSS` • `MySQL` • `PayPal SDK` • `Inertia.js`
 
+<p float="left">
+  <img src="RSLodgings-index.png" width="45%" />
+  <img src="RSLodgings-rooms.png" width="45%" />
+</p>
+<p float="left">
+  <img src="RSLodgings-deals.png" width="45%" />
+  <img src="RSLodgings-locatons.png" width="45%" />
+</p>
+
 ### 🔗 Enlace al repositorio
 [![Ver el código en GitHub](https://img.shields.io/badge/RS_Lodgings-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/RS-Lodgings)
 
@@ -70,7 +79,6 @@ Aplicación web para la gestión y comercialización de vehículos en línea, de
 ### 🛠️ Tecnologías utilizadas:
 `Laravel` • `PHP` • `Bootstrap` • `Tailwind CSS` • `JavaScript` • `MySQL`
 
-### 🔍 Capturas de pantalla
 <p float="left">
   <img src="SHIndex.png" width="45%" />
   <img src="SHCotizar.png" width="45%" />
