@@ -35,7 +35,7 @@ Aplicación web desarrollada para la gestión integral de reservas, habitaciones
 </p>
 <p float="left">
   <img src="RSLodgings-deals.png" width="45%" />
-  <img src="RSLodgings-locatons.png" width="45%" />
+  <img src="RSLodgings-locations.png" width="45%" />
 </p>
 
 ### 🔗 Enlace al repositorio
