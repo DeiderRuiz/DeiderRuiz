@@ -1,4 +1,4 @@
-# Sobre mi
+# 👨‍💻 Sobre mi
 
 Desarrollador Full Stack con experiencia construyendo aplicaciones web completas. Realizo análisis de requisitos, diseño UI/UX, desarrollo de frontend y backend, gestión de bases de datos, pruebas de carga, pruebas de seguridad y despliegue en la nube.
 
@@ -19,7 +19,7 @@ Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 [![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DeiderRuiz09)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DeiderRuiz)
 
-# Proyectos
+# 🚀 Proyectos
 
 ## RS Logings – Plataforma web para reserva y gestión hotelera
 Aplicación web desarrollada para la gestión integral de reservas, habitaciones y transacciones en un entorno hotelero. Incluye automatización de procesos, integración de pagos y diseño de interfaces interactivas enfocadas en la experiencia del usuario.
