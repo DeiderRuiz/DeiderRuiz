@@ -13,6 +13,12 @@ Tecnologías que manejo:
 
 Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 
+# 🌐 Redes y contacto
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
+[![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DeiderRuiz09)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DeiderRuiz)
+
 # Proyectos
 
 ## RS Logings – Plataforma web para reserva y gestión hotelera
@@ -39,7 +45,7 @@ Aplicación web desarrollada para la gestión integral de reservas, habitaciones
 </p>
 
 ### 🔗 Enlace al repositorio
-[![Ver el código en GitHub](https://img.shields.io/badge/RS_Lodgings-FDEEC1?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/DeiderRuiz/RS-Lodgings)
+[![Ver el código en GitHub](https://img.shields.io/badge/Ver_Repositorio_De_RS_Lodgings-FDEEC1?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/DeiderRuiz/RS-Lodgings)
 
 ## Psicobot – Chatbot con inteligencia artificial para apoyo emocional
 Desarrollo de una aplicación web con inteligencia artificial para la gestión emocional en estudiantes universitarios.
@@ -65,7 +71,7 @@ Desarrollo de una aplicación web con inteligencia artificial para la gestión e
 </p>
 
 ### 🔗 Enlace al repositorio
-[![Ver el código en GitHub](https://img.shields.io/badge/Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
+[![Ver el código en GitHub](https://img.shields.io/badge/Ver_Repositorio_De_Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 
 ## SPEEDHUNTERS - Plataforma web de venta de vehículos en línea
 Aplicación web para la gestión y comercialización de vehículos en línea, desarrollada en un entorno académico y posteriormente refactorizada con Laravel para mejorar su arquitectura y seguridad.
@@ -89,12 +95,5 @@ Aplicación web para la gestión y comercialización de vehículos en línea, de
 </p>
 
 ### 🔗 Enlace al repositorio
-[![Ver el código en GitHub](https://img.shields.io/badge/SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deider-yofret-ruiz-acosta-064a1b21a/)
-
-[![X](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DeiderRuiz09)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DeiderRuiz)
+[![Ver el código en GitHub](https://img.shields.io/badge/Ver_Repositorio_De_SPEEDHUNTERS-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/speedhunters)
 
