@@ -39,7 +39,7 @@ Aplicación web desarrollada para la gestión integral de reservas, habitaciones
 </p>
 
 ### 🔗 Enlace al repositorio
-[![Ver el código en GitHub](https://img.shields.io/badge/RS_Lodgings-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/RS-Lodgings)
+[![Ver el código en GitHub](https://img.shields.io/badge/RS_Lodgings-FDEEC1?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/DeiderRuiz/RS-Lodgings)
 
 ## Psicobot – Chatbot con inteligencia artificial para apoyo emocional
 Desarrollo de una aplicación web con inteligencia artificial para la gestión emocional en estudiantes universitarios.
