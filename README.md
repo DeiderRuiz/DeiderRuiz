@@ -23,7 +23,9 @@ Me enfoco en construir soluciones escalables, seguras y centradas en el usuario.
 
 ## RS Logings – Plataforma web para reserva y gestión hotelera
 Desarrollé un prototipo de software para la gestión hotelera como parte de mi proceso de mejora en el desarrollo web, para reforzar mis habilidades como Full Stack developer ante la falta de oportunidades reales para mostrar mis capacidades. Así desarrollé RS Lodgings, una aplicación web inspirada en el modelo de la cadena de hoteles Hilton Garden Inn, enfocada en la reserva de habitaciones de hoteles y administración de habitaciones, servicios, ofertas y reservas de negocios hoteleros pequeños.
+
 Definí los requisitos funcionales y no funcionales, diseñé una interfaz grafica intuitiva con Figma, Estructuré la base de datos MySQL, desarrollé el backend con Laravel y el frontend con Vue.js y Tailwind CSS, asegurando un prototipo funcional y completo.
+
 Este proyecto me permitió, en una de las pocas entrevistas donde revisaron a fondo mi portafolio, mostrar lo que puedo construir de forma autónoma, además consolidé mis conocimientos de Laravel, aprendí a integrar métodos de pago mediante SDK y automatizar tareas mediante Cron Jobs.
 
 ### 📌 Funcionalidades y logros destacados:
