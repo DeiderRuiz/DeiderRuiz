@@ -52,7 +52,11 @@ Este proyecto me permitió, en una de las pocas entrevistas donde revisaron a fo
 [![Ver el código en GitHub](https://img.shields.io/badge/Ver_Repositorio_De_RS_Lodgings-FDEEC1?style=for-the-badge&logo=github&logoColor=CC0000)](https://github.com/DeiderRuiz/RS-Lodgings)
 
 ## Psicobot – Chatbot con inteligencia artificial para apoyo emocional
-Desarrollo de una aplicación web con inteligencia artificial para la gestión emocional en estudiantes universitarios.
+Desarrollé una aplicación web para apoyar la gestión emocional de estudiantes universitarios como parte de mi proyecto de grado, en la educación superior la salud mental es uno de los principales factores que impactan el rendimiento académico de los estudiantes. Por ello se propuso desarrollar Psicobot, una aplicación web la cual se enfoca en la gestión de citas de orientación psicológica, y que, además integra un chatbot basado en el LLM GPT-3.5 Turbo como complemento para el servicio de orientación que se proporciona en la universidad.
+
+Realicé el diseño UI/UX en base a las historias de usuario proporcionada por los especialistas en la salud mental, desarrollé el frontend con Vue.js, el backend mediante Flask, estructuré la base de datos MySQL, realicé fine-tuning al modelo GPT 3.5 turbo y lo integré a la aplicación mediante la API de OpenAI, lideré el despliegue en la nube.
+
+El software desarrollado en este proyecto, obtuvo mediante encuestas con estudiantes y profesionales de la salud mental una calificación promedio de 4.62 en escala Likert, el chatbot mostró mediante Alfas de Cronbach una confiabilidad psicométrica elevada (α = 0.87) en impresión diagnóstica, además fue presentado a nivel nacional en el semillero RedCOLSI 2024 debido a su potencial. Lo anterior me permitió profundizar en el campo de la inteligencia artificial y aplicarlo al desarrollo web.
 
 ### 📌 Funcionalidades y logros destacados:
 - 🔧 Desarrollé **dos interfaces responsivas** con Vue.js y Tailwind CSS, evaluadas por usuarios con una calificación promedio de **4.6/5 en usabilidad** (escala Likert).
