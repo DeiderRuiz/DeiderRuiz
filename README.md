@@ -67,7 +67,7 @@ El software desarrollado en este proyecto, obtuvo mediante encuestas con estudia
 - 💬 El diseño del flujo conversacional del chatbot obtuvo una confiabilidad psicométrica **(α = 0.87)** en impresión diagnóstica, validada con encuestas a usuarios.
 
 ### 🛠️ Tecnologías utilizadas:
-`Vue.js` • `Tailwind CSS` • `Flask` • `Python` • `OpenAI API` • `MySQL` • `AWS EC2 / RDS` • `OWASP ZAP` • `Apache JMeter`
+`Vue.js` • `Tailwind CSS` • `Flask` • `Python` • `Axios` • `OpenAI API` • `MySQL` • `AWS EC2 / RDS` • `OWASP ZAP` • `Apache JMeter`
 
 <p float="left">
   <img src="PsicoIndex.png" width="45%" />
