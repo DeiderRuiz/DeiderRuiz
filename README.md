@@ -81,8 +81,12 @@ El software desarrollado en este proyecto, obtuvo mediante encuestas con estudia
 ### 🔗 Enlace al repositorio
 [![Ver el código en GitHub](https://img.shields.io/badge/Ver_Repositorio_De_Psicobot-50C878?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeiderRuiz/Psicobot)
 
-## SPEEDHUNTERS - Plataforma web de venta de vehículos en línea
-Aplicación web para la gestión y comercialización de vehículos en línea, desarrollada en un entorno académico y posteriormente refactorizada con Laravel para mejorar su arquitectura y seguridad.
+## SPEEDHUNTERS - Aplicación Web De Venta De Vehículos En Línea
+Lideré el desarrollo de un prototipo de aplicación web para la venta de vehículos en línea como parte de un proyecto académico. SPEEDHUNTERS, un portal de ventas mediante el cual se busca digitalizar tareas manuales de un concesionario de autos, como la solicitud de cotización o financiación, agendar Test Drive, entre otras funciones.
+
+Colaborando con stakeholders definí los requisitos funcionales y no funcionales del software, realicé el maquetado con Figma, desarrollé el frontend con JavaScript y backend con PHP y diseñé el modelo relacional de la base de datos MySQL, posterior mente realicé una migración del proyecto a Laravel para optimizarla estructura y reforzar la seguridad del código.
+
+Este proyecto me permitió poner en práctica mis conocimientos de Laravel, aprender cada una de las fases del ciclo de desarrollo de software, fortalecí mis habilidades en diseño UI, análisis, desarrollo e integración, y comprendí mejor el trabajo completo detrás de una solución funcional y segura.
 
 ### 📌 Funcionalidades y logros destacados:
 - 🔁 Refactoricé y migré módulos clave desde PHP puro hacia el framework **Laravel**, reduciendo la deuda técnica, mejorando la mantenibilidad del código y reforzando la seguridad general del sistema.
