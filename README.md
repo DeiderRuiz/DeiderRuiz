@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre mi
 
-Desarrollador Full Stack con experiencia construyendo aplicaciones web completas. Realizo análisis de requisitos, diseño UI/UX, desarrollo de frontend y backend, gestión de bases de datos, pruebas de carga, pruebas de seguridad y despliegue en la nube.
+Full Stack Developer y UX/UI Designer. Ayudo a pequeñas empresas y proyectos en crecimiento a fortalecer su presencia web para conectar mejor con sus usuarios. Domino Laravel, Vue.js y Figma, con un fuerte enfoque en crear interfaces intuitivas y visualmente coherentes. He liderado proyectos innovadores como una plataforma que integra un chatbot para apoyo emocional. Combino diseño y desarrollo para transformar ideas en productos reales.
 
 He trabajado en proyectos como:
 
